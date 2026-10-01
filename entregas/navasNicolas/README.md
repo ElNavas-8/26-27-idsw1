@@ -6,7 +6,7 @@ A continuación, se presentan los modelos para dos de los escenarios propuestos,
 
 ## Escenario 1: Farmear Aura
 
-![Logotipo de Markdown](/entregas/navasNicolas/docs/MDM_Famear_Aura.jpg)
+![Logotipo de Markdown](/entregas/navasNicolas/docs/MDM_Farmear_Aura.png)
 
 ### Glosario
 *   **Persona:** Individuo base que actúa en el entorno.
@@ -25,7 +25,7 @@ A continuación, se presentan los modelos para dos de los escenarios propuestos,
 
 ## Escenario 2: Una Sombra
 
-![Logotipo de Markdown](/entregas/navasNicolas/docs/MDM_Sombra.jpg)
+![Logotipo de Markdown](/entregas/navasNicolas/docs/MDM_Sombra.png)
 
 ### Glosario
 *   **Fuente de Luz:** Entidad que emite fotones en el entorno.
@@ -40,3 +40,25 @@ A continuación, se presentan los modelos para dos de los escenarios propuestos,
 
 ### Decisiones Discutibles
 *   **Relación entre Sombra, Umbra y Penumbra:** El diagrama original sugería "es parte de" (composición), pero la representación gráfica usaba flechas de generalización. Se justifica considerarlos como subtipos (Herencia) si asumimos que un píxel/punto específico en el espacio es "una Umbra" o "una Penumbra", siendo ambos tipos específicos de "Sombra". Sin embargo, si hablamos de la sombra como un todo geométrico, la *composición* hubiera sido más precisa semánticamente.
+
+---
+
+## Escenario 3: El concepto de Simpatía
+
+![MDM_Simpatia](/entregas/navasNicolas/docs/MDM_Simpatia.png)
+
+### Glosario
+
+* **Persona:** Individuo central del modelo.
+* **Simpatía:** Cualidad intrínseca de la persona, compuesta por rasgos como empatía y carisma.
+* **Acción Simpática:** Comportamiento observable y tangible mediante el cual se manifiesta la simpatía.
+* **Interlocutor:** Sujeto que interactúa con la persona y percibe sus acciones.
+
+### Supuestos
+
+1. La simpatía no puede evaluarse en el vacío; requiere ser exteriorizada a través de acciones.
+2. Ser considerado "alguien simpático" depende de la percepción de un tercero (el interlocutor).
+
+### Decisiones Discutibles
+
+* **Eliminación de transitividad:** Se decidió *no* conectar directamente al `Interlocutor` con la `Persona` ni con la `Simpatía`. El interlocutor únicamente se relaciona con la `Acción Simpática` (la percibe). La conclusión de que la persona "es simpática" es un dato derivado de esta percepción, manteniendo el modelo estructural limpio y sin redundancias.
