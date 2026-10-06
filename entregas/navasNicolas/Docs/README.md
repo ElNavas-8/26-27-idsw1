@@ -6,7 +6,7 @@ A continuación, se presentan los modelos para dos de los escenarios propuestos,
 
 ## Escenario 1: Farmear Aura
 
-![Logotipo de Markdown](/entregas/navasNicolas/docs/MDM_Farmear_Aura.png)
+![Logotipo de Markdown](/entregas/navasNicolas/diagramas_UML/MDM_Farmear_Aura.png)
 
 ### Glosario
 *   **Persona:** Individuo base que actúa en el entorno.
@@ -25,7 +25,7 @@ A continuación, se presentan los modelos para dos de los escenarios propuestos,
 
 ## Escenario 2: Una Sombra
 
-![Logotipo de Markdown](/entregas/navasNicolas/docs/MDM_Sombra.png)
+![Logotipo de Markdown](/entregas/navasNicolas/diagramas_UML/MDM_Sombra.png)
 
 ### Glosario
 *   **Fuente de Luz:** Entidad que emite fotones en el entorno.
@@ -45,7 +45,7 @@ A continuación, se presentan los modelos para dos de los escenarios propuestos,
 
 ## Escenario 3: El concepto de Simpatía
 
-![MDM_Simpatia](/entregas/navasNicolas/docs/MDM_Simpatia.png)
+![MDM_Simpatia](/entregas/navasNicolas/diagramas_UML/MDM_Simpatia.png)
 
 ### Glosario
 
