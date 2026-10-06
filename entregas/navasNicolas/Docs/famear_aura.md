@@ -4,28 +4,7 @@
 
 Para este escenario se optó por un diagrama de estados. Esto refleja fielmente la dinámica de cómo cambia la percepción relativa ("Aura") de una persona al interactuar y tratar de destacar ("Famear") dentro de un ámbito o contexto determinado.
 
-```plantuml
-@startuml
-hide empty description
-
-state Persona
-state Farmea
-state Aura_sube
-state Aura_baja
-
-Persona --> Farmea : Realiza acción llamativa
-
-Farmea --> Aura_sube : Contexto valida (Aumenta Aura)
-Farmea --> Aura_baja : Contexto rechaza o es Indiferente(Pierde Aura)
-
-Aura_sube --> Farmea : Arriesga para ganar más
-Aura_sube --> Aura_baja : Error grave en el contexto
-Aura_sube --> [*] : Sale del Contexto
-
-Aura_baja --> Farmea : Intento de redención
-Aura_baja --> [*] : Sale del Contexto (Retirada)
-@enduml
-```
+![DDE_Farmear_Aura](/entregas/navasNicolas/diagramas_UML/DDE_Farmear_Aura.png)
 
 ### Glosario
 
