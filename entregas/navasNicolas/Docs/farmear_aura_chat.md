@@ -4,7 +4,7 @@
 
 Para este escenario se optó por un diagrama de estados. Esto refleja fielmente la dinámica de cómo cambia la percepción relativa ("Aura") de una persona al interactuar y tratar de destacar ("Famear") dentro de un grupo social o contexto (el "chat" o el "lobby").
 
-![DDE_Farmear_Aura](/entregas/navasNicolas/diagramas_UML/Captura_de_pantalla_2026-10-09_093703.png)
+![DDE_Farmear_Aura](/entregas/navasNicolas/diagramas_UML/DDE_Farmear_Aura_2.png.png)
 
 ## Diagrama de Objetos (Instancia de Dominio)
 
