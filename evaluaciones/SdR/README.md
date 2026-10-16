@@ -90,7 +90,7 @@ La defensa continúa con el profesor de la asignatura, quien evalúa los artefac
 
 ### Nota final
 
-La nota de la actividad combina ambas defensas: 40% valoración del cliente y 60% evaluación del profesor. Para aprobar se requiere aprobar en la nota final y cumplir los mínimos de la rúbrica de la actividad.
+La nota de la actividad combina ambas defensas: 40% valoración del cliente y 60% evaluación del profesor. Para aprobar se requiere alcanzar 5 sobre 10 en la nota final y cumplir los mínimos de la rúbrica de la actividad.
 
 ## Secciones adicionales
 
