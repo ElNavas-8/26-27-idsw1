@@ -51,6 +51,10 @@ Las fechas son ajustables ante cualquier inconveniente.
 
 Se sugiere acudir a las sesiones con "refuerzos": si asiste una persona que trabaje en el mismo tema y pueda aportar un punto de vista adicional, extra o incluso disruptivo, el resultado mejora.
 
+### Dedicación del cliente esperada
+
+Dos sesiones de hasta dos horas, la defensa final (30 minutos) y respuestas breves a las consultas de los equipos entre sesiones: es razonable prefijar un tope, por ejemplo de 30 minutos por semana.
+
 ## Comunicación y revisión
 
 Los equipos son los interlocutores del cliente: lo contactan, acuerdan con él cómo comunicarse y llevan el registro de lo tratado. Tras la primera sesión puede pactarse con los equipos un contacto adicional si hace falta, en el formato que el cliente prefiera: correo electrónico, reuniones, videollamada, etc. Lo esencial es que repercuta lo menos posible en las actividades del cliente. Se puede proponer a los equipos una jornada (o unas horas) de inmersión en el lugar de trabajo, si la discreción de las labores desarrolladas lo permite.
@@ -65,28 +69,38 @@ En esta dinámica, los clientes son clientes y los alumnos son ingenieros de req
 
 ## Valoración
 
-### Primera parte
+La defensa final tiene dos partes: primero ante el cliente (30 minutos) y, a continuación, el mismo día, ante el profesor de la asignatura. El cliente asiste solo a la primera parte.
 
-La defensa final es la tercera cita: los equipos exponen ante el cliente durante 30 minutos y, al terminar, el cliente completa una rúbrica breve de cuatro ítems:
+### Defensa ante el cliente
+
+Los equipos exponen durante 30 minutos y, al terminar, el cliente completa una rúbrica breve de cuatro ítems:
 
 1. La exposición refleja cómo trabaja realmente el cliente.
 2. Las preguntas de las sesiones fueron pertinentes.
 3. Los casos de uso resuelven un problema real del cliente.
 4. Qué se escapó.
 
-La valoración del cliente la pondera el profesor junto a la evaluación de los artefactos, pero no fija la nota por sí sola. El cuarto ítem es información para mejorar y no una penalización.
+Los ítems 1 a 3 se valoran de 1 (nada de acuerdo) a 5 (totalmente de acuerdo) y el 4 es de respuesta libre. La media de los ítems 1 a 3 aporta el 40% de la nota de la actividad. No existe un mínimo: la valoración del cliente pesa, pero no es eliminatoria por sí sola. El cuarto ítem es información para mejorar y no una penalización.
 
-El ejercicio permite también aprender de los clientes. Se valora cómo se ha desarrollado la relación (si el cliente contó su trabajo tal como es, aportó material real, respondió a las preguntas y revisó lo que se le pidió), pero esto no supone una nota: sirve para mejorar la dinámica y ajustar el peso de la valoración del cliente sobre los equipos.
+El ejercicio permite también aprender de los clientes. Cómo se desarrolló la relación (si el cliente contó su trabajo tal como es, aportó material real, respondió a las preguntas y revisó lo que se le pidió) no se califica: sirve para mejorar la dinámica en futuras ediciones.
 
-### Segunda parte
+### Defensa ante el profesor
 
-La defensa continúa, ahora con el profesor de la asignatura, quien evalúa la idoneidad de lo presentado en función de la [rúbrica de evaluación de la actividad](rubrica.md). Para aprobar la actividad, el equipo debe superar la evaluación del profesor, que pondera la valoración del cliente.
+La defensa continúa con el profesor de la asignatura, quien evalúa los artefactos y la defensa con la [rúbrica de la actividad](rubrica.md). Esa evaluación aporta el 60% restante de la nota de la actividad.
 
-## Confidencialidad
+### Nota final
 
-Los documentos de los equipos pueden ser públicos y lo que el cliente comparta con ellos (incluidos los datos institucionales o la firma de sus mensajes) puede quedar reflejado. El cliente decide qué contar: si hay datos o cifras internas que prefiere no exponer, debe indicarlo al equipo, que las generalizará o las omitirá.
+La nota de la actividad combina ambas defensas: 40% valoración del cliente y 60% evaluación del profesor. Para aprobar se requiere aprobar en la nota final y cumplir los mínimos de la rúbrica de la actividad.
 
-## Ejemplos
+## Secciones adicionales
+
+### Confidencialidad
+
+Los documentos y el repositorio de los equipos son públicos. El nombre de usuario del cliente y sus comentarios en issues y discussions quedan visibles, así como lo que comparta (incluidos los datos institucionales o la firma de sus mensajes). 
+
+El cliente decide qué contar: si hay datos o cifras internas que prefiere no exponer, debe indicarlo al equipo, que las generalizará o las omitirá. Los equipos pueden usar herramientas de IA como apoyo, pero no introducen en ellas datos que el cliente haya indicado como reservados ni datos personales.
+
+### Ejemplos
 
 Algunos ejemplos de lo obtenido en otros cursos:
 
